@@ -1,0 +1,18 @@
+[
+  {
+    "package": "fic",
+    "oncran": true
+  },
+  {
+    "package": "flexsurv",
+    "oncran": true
+  },
+  {
+    "package": "MetaAnalyser",
+    "oncran": true
+  },
+  {
+    "package": "msm",
+    "oncran": true
+  }
+]
