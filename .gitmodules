@@ -13,3 +13,8 @@
 	url = https://github.com/chjackson/voi
 	shallow = true
 	registered = true
+[submodule "disbayes"]
+	path = disbayes
+	url = https://github.com/chjackson/disbayes
+	shallow = true
+	registered = true
