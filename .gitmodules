@@ -1,25 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/chjackson/universe
 	shallow = true
 	branch = HEAD
-[submodule "fic"]
-	path = fic
-	url = https://github.com/chjackson/fic
+[submodule "survextrap"]
+	path = survextrap
+	url = https://github.com/chjackson/survextrap
 	shallow = true
 	registered = true
-[submodule "flexsurv"]
-	path = flexsurv
-	url = https://github.com/chjackson/flexsurv-dev
-	shallow = true
-	registered = true
-[submodule "MetaAnalyser"]
-	path = MetaAnalyser
-	url = https://github.com/chjackson/metaanalyser
-	shallow = true
-	registered = true
-[submodule "msm"]
-	path = msm
-	url = https://github.com/chjackson/msm
+[submodule "voi"]
+	path = voi
+	url = https://github.com/chjackson/voi
 	shallow = true
 	registered = true

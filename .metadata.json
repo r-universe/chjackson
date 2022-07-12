@@ -1,18 +1,8 @@
 [
   {
-    "package": "fic",
-    "oncran": true
+    "package": "survextrap"
   },
   {
-    "package": "flexsurv",
-    "oncran": true
-  },
-  {
-    "package": "MetaAnalyser",
-    "oncran": true
-  },
-  {
-    "package": "msm",
-    "oncran": true
+    "package": "voi"
   }
 ]
