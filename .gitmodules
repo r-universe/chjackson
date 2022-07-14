@@ -18,3 +18,8 @@
 	url = https://github.com/chjackson/disbayes
 	shallow = true
 	registered = true
+[submodule "a2bcovid"]
+	path = a2bcovid
+	url = https://github.com/chjackson/survextrap
+	shallow = true
+	registered = true
