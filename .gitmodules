@@ -20,6 +20,6 @@
 	registered = true
 [submodule "a2bcovid"]
 	path = a2bcovid
-	url = https://github.com/chjackson/survextrap
+	url = https://github.com/chjackson/a2bcovid
 	shallow = true
 	registered = true
