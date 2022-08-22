@@ -6,7 +6,8 @@
     "package": "voi"
   },
   {
-    "package": "disbayes"
+    "package": "disbayes",
+    "oncran": false
   },
   {
     "package": "a2bcovid"
