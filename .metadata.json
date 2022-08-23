@@ -7,7 +7,7 @@
   },
   {
     "package": "disbayes",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "a2bcovid"
