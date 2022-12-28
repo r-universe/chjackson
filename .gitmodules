@@ -23,3 +23,8 @@
 	url = https://github.com/chjackson/a2bcovid
 	shallow = true
 	registered = true
+[submodule "flexsurv"]
+	path = flexsurv
+	url = https://github.com/chjackson/flexsurv-dev
+	shallow = true
+	registered = true
