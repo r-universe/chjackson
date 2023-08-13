@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/chjackson/universe
 	branch = HEAD
+[submodule "a2bcovid"]
+	path = a2bcovid
+	url = https://github.com/chjackson/a2bcovid
+[submodule "disbayes"]
+	path = disbayes
+	url = https://github.com/chjackson/disbayes
+[submodule "flexsurv"]
+	path = flexsurv
+	url = https://github.com/chjackson/flexsurv-dev
 [submodule "survextrap"]
 	path = survextrap
 	url = https://github.com/chjackson/survextrap
 [submodule "voi"]
 	path = voi
 	url = https://github.com/chjackson/voi
-[submodule "disbayes"]
-	path = disbayes
-	url = https://github.com/chjackson/disbayes
-[submodule "a2bcovid"]
-	path = a2bcovid
-	url = https://github.com/chjackson/a2bcovid
-[submodule "flexsurv"]
-	path = flexsurv
-	url = https://github.com/chjackson/flexsurv-dev
