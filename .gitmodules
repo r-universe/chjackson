@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/chjackson/universe
+	url = https://github.com/chjackson/chjackson.r-universe.dev
 	branch = HEAD
 [submodule "a2bcovid"]
 	path = a2bcovid
