@@ -5,6 +5,9 @@
 [submodule "a2bcovid"]
 	path = a2bcovid
 	url = https://github.com/chjackson/a2bcovid
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
 [submodule "disbayes"]
 	path = disbayes
 	url = https://github.com/chjackson/disbayes
