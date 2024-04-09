@@ -11,6 +11,9 @@
 [submodule "flexsurv"]
 	path = flexsurv
 	url = https://github.com/chjackson/flexsurv-dev
+[submodule "msmbayes"]
+	path = msmbayes
+	url = https://github.com/chjackson/msmbayes
 [submodule "survextrap"]
 	path = survextrap
 	url = https://github.com/chjackson/survextrap
